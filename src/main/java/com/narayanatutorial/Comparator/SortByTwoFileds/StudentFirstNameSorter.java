@@ -1,4 +1,4 @@
-package com.narayanatutorial.Comparator.FiledWiseImplSorting;
+package com.narayanatutorial.Comparator.SortByTwoFileds;
 
 import java.util.Comparator;
 
